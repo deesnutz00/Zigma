@@ -1,0 +1,32 @@
+#include <zoomer.h>
+#include <vibes.h>
+big_numbers master_chief() {
+    big_numbers integer = 100;
+    lil_fella character = 'a';
+    lowkey float = 3.1416;
+    yapp("Fortnite");
+    big_numbers x; 
+    grab(x);
+vibecheck(integer < x) {
+               yapp("Bro got ratioed");   }
+big_yikes {
+        yapp("put the fries in the bag bro");
+    }
+yapp("FIVE BIG BOOOMS!");
+on_repeat(big_numbers i = 0; i <= 5; i++) {
+                yapp("BOOM! ");  
+   }
+$  // unexpected character for error handling
+
+
+    yeet cap;  
+}
+
+// single-line comment
+/* this is a multi-line comment */
+
+/* Error: Unfinished string */
+"This string is not finished  
+
+
+
