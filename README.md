@@ -72,7 +72,7 @@ yeet, big_numbers, lowkey, drip, noCap, slide, orNah, rizz
 | GenZLang | Meaning        |
 |----------|----------------|
 | `yapp()` | `print()`      |
-| `grab()` | `scanf()`      |
+| `yoink()` | `scanf()`      |
 | `master_chief()` | `main()`      |
 | Any identifier followed by `(` is recognized as a function |
 
