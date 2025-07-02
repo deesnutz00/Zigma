@@ -69,7 +69,7 @@ yeet, big_numbers, lowkey, drip, noCap, slide, orNah, rizz
 ---
 
 ### 📞 **Functions**
-| GenZLang | Meaning        |
+| Zigma boi | Meaning        |
 |----------|----------------|
 | `yapp()` | `print()`      |
 | `yoink()` | `scanf()`      |
