@@ -6,7 +6,7 @@ big_numbers master_chief() {
     lowkey float = 3.1416;
     yapp("Fortnite");
     big_numbers x; 
-    grab(x);
+    yoink(x);
 vibecheck(integer < x) {
                yapp("Bro got ratioed");   }
 big_yikes {
