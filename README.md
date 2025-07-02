@@ -1,4 +1,4 @@
-# 🕶️ GenZLang - A Gen Z Inspired Programming Language
+# 🕶️ Zigma - A Gen Z Inspired Programming Language
 
 **GenZLang** is a fun and modern twist on programming language design, integrating Gen Z slang to make coding more relatable and engaging for younger developers. Built using **Flex**, this project focuses on the development of a **lexical analyzer** that tokenizes Gen Z-styled code into syntactically correct tokens for further compilation stages.
 
