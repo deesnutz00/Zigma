@@ -69,7 +69,7 @@ yeet, big_numbers, lowkey, drip, noCap, slide, orNah, rizz
 ---
 
 ### 📞 **Functions**
-| Zigma boi | Meaning        |
+| Zigma boi be like | Meaning        |
 |----------|----------------|
 | `yapp()` | `print()`      |
 | `yoink()` | `scanf()`      |
